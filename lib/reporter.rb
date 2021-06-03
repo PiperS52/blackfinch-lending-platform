@@ -1,4 +1,4 @@
-# writing and reporting of loans
+# reporting of written applications and loans
 
 # output => 
 #1. application successful/declined 

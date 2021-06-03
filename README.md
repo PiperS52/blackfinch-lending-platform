@@ -1,5 +1,5 @@
 # Lending Platform
 
-## Assumptions
-
 ## Extensions & Considerations
+
+Reporter class testing to be completed
